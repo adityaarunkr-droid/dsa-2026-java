@@ -3,12 +3,43 @@
 This folder contains implementations of different **searching algorithms** written in **Java** as part of my **DSA 2026 preparation**.
 
 ## 📌 Algorithms Covered
-- Linear Search
 - Binary Search
-- Binary Search on Answer
-- Search in Rotated Sorted Array
-- Search in Mountain Array
-- Floor and Ceiling using Binary Search
+
+
+### 📌 Learning Sequence for Binary Search
+
+1. **BinarySearchStart**  
+   Learn the fundamental binary search template and core logic.
+
+2. **floor_and_ceiling_binary_search**  
+   Understand how to find the floor and ceiling of a target element.
+
+3. **NextGreatestLetter**  
+   Apply binary search on characters and handle wrap-around cases.
+
+4. **FistandLastPosition**  
+   Find the first and last occurrence of an element in a sorted array.
+
+5. **infinityArray**  
+   Learn how binary search works when the array size is unknown.
+
+6. **peakIndexinMountainArray**  
+   Identify the peak element in a mountain array using binary search.
+
+7. **RotatedinSortedArray**  
+   Search for an element in a rotated sorted array (without duplicates).
+
+8. **rotatedArrayWithDuplicates**  
+   Handle rotated sorted arrays that contain duplicate elements.
+
+9. **countNumberinRotationArray**  
+   Count how many times a sorted array has been rotated.
+
+10. **splitArraywithDuplicates**  
+    Use binary search on answers to split an array into valid subarrays.
+
+---
+
 
 ## 🧠 Purpose
 - To understand searching algorithms conceptually
