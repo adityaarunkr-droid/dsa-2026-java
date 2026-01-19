@@ -20,9 +20,6 @@ Copy code
 **Output:**
 [-1, -1]
 
-yaml
-Copy code
-
 
 
 ---
