@@ -3,9 +3,6 @@
 arr = [5, 7, 7, 8, 8, 10]
 target = 8
 
-makefile
-Copy code
-
 **Output:**
 [3, 4]
 
@@ -13,9 +10,6 @@ Copy code
 **Input:**
 arr = [5, 7, 7, 8, 8, 10]
 target = 6
-
-makefile
-Copy code
 
 **Output:**
 [-1, -1]
